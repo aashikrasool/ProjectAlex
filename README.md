@@ -34,3 +34,6 @@
 
    ```bash
    git clone https://github.com/aashikrasool/mr-alex.git
+
+## Acknowledgments
+Mr. Alex is a project created by Aashik Rasool for his Undergraduate final project. It was inspired by the desire to build a personal assistant that can simplify daily tasks and provide information on demand. Special thanks to the open-source community and the creators of the libraries and APIs used in this project
